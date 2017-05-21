@@ -1,0 +1,10 @@
+.\joy.o: JOY.c
+.\joy.o: C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\joy.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\joy.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\joy.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\joy.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\joy.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\joy.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\joy.o: JOY.h
+.\joy.o: I2C.h

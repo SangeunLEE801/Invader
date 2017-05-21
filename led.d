@@ -1,0 +1,9 @@
+.\led.o: LED.c
+.\led.o: C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\led.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\led.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\led.o: LED.h

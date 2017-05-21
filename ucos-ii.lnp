@@ -1,0 +1,26 @@
+--cpu Cortex-M4.fp
+".\startup_stm32f40_41xxx.o"
+".\os_core.o"
+".\os_cpu_c.o"
+".\os_dbg.o"
+".\os_flag.o"
+".\os_mbox.o"
+".\os_mem.o"
+".\os_mutex.o"
+".\os_q.o"
+".\os_sem.o"
+".\os_task.o"
+".\os_time.o"
+".\os_tmr.o"
+".\system_stm32f4xx.o"
+".\os_cpu_a.o"
+".\gamemain.o"
+".\glcd_16bitif_stm32f4xx.o"
+".\i2c_stm32f4xx.o"
+".\joy.o"
+".\led.o"
+".\tetris.o"
+--strict --scatter ".\ucos-ii.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\ucos-ii.map" -o .\ucos-ii.axf
